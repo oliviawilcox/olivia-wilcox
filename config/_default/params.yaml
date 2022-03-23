@@ -35,8 +35,8 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/OliviaWilcox'
-  - icon: comments
-    icon_pack: fas
+  - icon: linkedin
+    icon_pack: fab
     name: Let's Connect
     link: 'https://www.linkedin.com/in/olivia-wilcox-84a11a163/'
 
