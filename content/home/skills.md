@@ -25,9 +25,9 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 10%
-  icon: camera-retro
+  icon: brain
   icon_pack: fas
-  name: Photography
+  name: Research
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
