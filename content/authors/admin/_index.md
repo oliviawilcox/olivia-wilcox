@@ -19,7 +19,7 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/OliviaWicoxx
+  link: https://twitter.com/OliviaWilcoxx
 - icon: github
   icon_pack: fab
   link: https://github.com/oliviawilcox
