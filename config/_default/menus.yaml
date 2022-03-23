@@ -5,10 +5,10 @@
 
 main:
   - name: Posts
-    url: '#posts'
+    url: '#post'
     weight: 20
   - name: Projects
-    url: '/#project'
+    url: '#project'
     weight: 30
  # - name: Publications
   #  url: '#featured'
