@@ -36,4 +36,4 @@ I am a current graduate student at Case Western Reserve University in the Popula
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wilcox.pdf" "newtab" >}}resumé{{< /staticref >}}.
