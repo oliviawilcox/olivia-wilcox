@@ -11,7 +11,7 @@ if (file.exists("~/.Rprofile")) {
 # are a few sample options; for more options, see
 # https://bookdown.org/yihui/blogdown/global-options.html
 options(
-  blogdown.serve_site.startup = TRUE,
+  blogdown.serve_site.startup = FALSE,
   blogdown.author = "Olivia Wilcox",
   blogdown.ext = ".Rmarkdown",
   blogdown.subdir = "post",
