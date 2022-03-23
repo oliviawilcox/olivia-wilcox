@@ -17,7 +17,7 @@ image:
 projects: []
 ---
 
-Using 2018 Core data from the Health and Retirement Study by the University of Michigan, I created a set of regression models to analyze cognitive impairment within the 65+ age group. 
+Using 2018 Core data from the Health and Retirement Study by the University of Michigan, I created a set of regression models to analyze cognitive impairment within the 65+ age group.
 
 I created the variable `animals` to use as my quantitative outcome variable, which represents the Animal Naming Test (ANT). This is a popular verbal fluency test used by neuropsychologist to assess cognitive functioning. In the ANT, patients are asked to list as many animals as possible in 60 seconds and the interviewer writes down the number of correctly named and uniquely identified animals. Scores below 14 are considered a sign of cognitive impairment.
 
@@ -68,9 +68,9 @@ Here are the coefficients and confidence intervals for my main effects linear re
 |healthpoor  |   -3.333|     0.479|   -4.273|    -2.394|
 
 
-By looking at the cofficients, we can see my model predicts that a subject who reported  their `memory` as poor will score 1.3 points lower on the ANT than a subject who reported their `memory` as great. Additionally, my model predicts that a subject who reported their `health` as poor will score 3.3 points lower on the ANT than a subject who reported their `health` as great. 
+By looking at the cofficients, we can see my model predicts that a subject who reported  their `memory` as poor will score 1.3 points lower on the ANT than a subject who reported their `memory` as great. Additionally, my model predicts that a subject who reported their `health` as poor will score 3.3 points lower on the ANT than a subject who reported their `health` as great.
 
-I'm not surprised that scores were predicted to decrease as the patient reported outcome (`memory` or `health`) decreased, but I am surprised that the effect size isn't larger. A decrease in 1 to 3 points isn't that much, especially considering I thought these predictors would be closely related to visual spatial memory outcomes. 
+I'm not surprised that scores were predicted to decrease as the patient reported outcome (`memory` or `health`) decreased, but I am surprised that the effect size isn't larger. A decrease in 1 to 3 points isn't that much, especially considering I thought these predictors would be closely related to visual spatial memory outcomes.
 
 Finally, here are the residual plots. We can see that there were no major problems with residual assumptions for this model.
 

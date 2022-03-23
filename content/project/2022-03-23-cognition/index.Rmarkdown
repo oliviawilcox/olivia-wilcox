@@ -67,7 +67,7 @@ We can see that scores ranged from 1 to 40.
 
 One of the questions in HRS asks patients to rate their memory at the present time. I was interested in if there was an association in the subject's perception of their memory and their score on the ANT. Furthermore, I wanted to know if I could predict the number of `animals` a subject in the HRS could name in 60 seconds, after adjusting for `memory`, `sex`, `age`, and `health`.
 
-# Codebook
+### Codebook
 
 Variable | Role | Type | Description
 -------- | ---- | ---- | -----------------
