@@ -14,7 +14,7 @@ options(
   blogdown.serve_site.startup = FALSE,
   blogdown.author = "Olivia Wilcox",
   blogdown.ext = ".Rmarkdown",
-  blogdown.subdir = "post",
+  blogdown.subdir = "project",
   blogdown.knit.on_save = FALSE,
   blogdown.method = 'html'
 )

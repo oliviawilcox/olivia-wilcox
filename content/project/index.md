@@ -7,7 +7,7 @@ image:
 summary: Projects
 tags:
 title: Projects
-url_code: ""
+url_code: "/#project"
 url_pdf: ""
 url_slides: ""
 url_video: ""
